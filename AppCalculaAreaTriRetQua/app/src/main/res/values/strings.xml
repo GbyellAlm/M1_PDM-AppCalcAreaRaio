@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">App Calcula Area Tri Ret Qua</string>
+    <string name="label_radiobtt">Selecione a forma:</string>
+    <string name="rd_option_triangulo">Triângulo</string>
+    <string name="rd_option_quadrado">Quadrado</string>
+    <string name="rd_option_circulo">Círculo</string>
+    <string name="btn_avancar">Avançar</string>
+    <string name="lbl_base">Base:</string>
+    <string name="lbl_altura">Altura:</string>
+    <string name="lbl_dado_circulo">Informe o dado do círculo:</string>
+    <string name="lbl_raio">Raio</string>
+    <string name="btn_calcular_quadrado" translatable="false">Calcular</string>
+    <string name="btn_calcular_circulo">Calcular</string>
+    <string name="lbl_resultado_operacao_circulo">O raio do círculo é:</string>
+    <string name="btn_fazer_outra_operacao">Fazer outra operação</string>
+    <string name="img_retangulo">Essa imagem representa a forma geométrica escolhida por você.</string>
+    <string name="img_quadrado">Essa imagem representa a forma geométrica escolhida por você.</string>
+    <string name="img_circulo">Essa imagem representa a forma geométrica escolhida por você.</string>
+    <string name="lbl_resultado_operacao_quadrado">A área do seu quadrado é:</string>
+    <string name="lbl_resultado_operacao_retangulo" translatable="false">A área do seu retângulo é:</string>
+    <string name="img_triangulo">Essa imagem representa a forma geométrica escolhida por você.</string>
+    <string name="lbl_resultado_operacao_triangulo">A área do seu triângulo é:</string>
+    <string name="lbl_dados_quadrado">Informe os dados do quadrado:</string>
+    <string name="lbl_dados_tri">Informe os dados do triângulo:</string>
+    <string name="btn_calcular_triangulo">Calcular</string>
+    <string name="lbl_dados_retangulo">Informe os dados do retângulo:</string>
+    <string name="btn_calcular_retangulo">Calcular</string>
+    <string name="rd_option_retangulo">Retângulo</string>
+</resources>
